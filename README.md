@@ -4,6 +4,7 @@
 
 * TED Talks 데이터 분석을 통해 강연을 성공적으로 이끄는 방법을 제시하고자 함
 
+
 ### 2. 데이터 셋 
 
 1. **Kaggle** dataset
@@ -57,7 +58,7 @@
      |                                          |                       |
 
      * bold : 새로 만든 변수
-     *  italic : 데이터 셋의 merge를 통해 생성된 컬럼들
+     * italic : 데이터 셋의 merge를 통해 생성된 컬럼들
 
    ​
 
@@ -70,9 +71,14 @@
   > top_rating_added_TED_main.csv  변수 설명
 
   * published_date : Unix timestamp형인 타입을 date타입으로 변경
+
   * ratings : json형식으로 한 셀에 모든 rating이 모여있어 각 rating 별 컬럼 생성 
+
   * new_views : 영상이 올려진 날짜
+
   * top_rating & bottome_rating
+
+    ​
 
   > finalscriptSet.csv 변수 설명
 
@@ -117,4 +123,17 @@
 
 * Oven을 통한 웹 프로토 타입 : https://goo.gl/uxMgou
 
-*  
+
+
+
+
+TEST FOR MARKDOWN
+
+==HIGHLIGHT==
+
+<mark>ggg</mark>
+
+<hr>
+
+---
+
